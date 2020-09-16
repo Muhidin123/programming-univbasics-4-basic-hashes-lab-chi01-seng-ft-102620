@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  ir of your choice
+  hash = {:name => "Mike"}
 end
 
 def pioneer
